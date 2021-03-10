@@ -1,0 +1,18 @@
+.main-heading {
+    text-align: center;
+    font-size: 260%;
+    padding: 70px 0;
+    color: #000;
+}
+
+#outer-div {
+    margin: 0px auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align:center;
+}
+
+#charging{
+    font-size: 300px;
+    color: #fff;
+}
